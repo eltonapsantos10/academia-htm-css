@@ -1,0 +1,192 @@
+ul li {
+display: inline;
+padding: 10px;
+}
+
+
+#navigation{
+background-color: rgba(0, 0, 0, 0.986);
+margin-top: -10px;
+height: 40px;
+}
+
+li a {
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+color:white;
+}
+
+li :hover{
+color:rebeccapurple;
+background-color: rgb(234, 0, 255);
+border-radius: 5px;
+}
+
+
+#titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: rgb(165, 1, 129);
+    text-align: center;
+    padding-top: 20px;
+}
+
+#titulo :hover {
+color: rgb(255, 0, 170);
+}
+
+#titulo a{
+text-decoration: none;
+color: rgb(116, 212, 230);
+}
+
+
+#paragrafo{
+    font-family: Arial, Helvetica, sans-serif;  
+    font-size: 15px;
+    color: rgb(246, 245, 247);
+    text-align: center;
+}
+
+.textos {
+    background-color: rgba(0, 0, 0, 0.966);
+    height: 150px;
+    margin-top: -30px;
+}
+
+.rodape2 {
+margin-left: 300px;
+padding-top: -100px;
+
+}
+
+.rodape-geral img {
+margin-left: 35px;
+margin-top: 20px;
+
+
+}
+
+.foto1{
+    margin-left: "" ;
+    margin-top: ""; 
+
+
+}
+
+
+.foto2{
+    margin-left: 350px;
+    margin-top: -270px;
+
+}
+
+
+
+.foto3 {
+    margin-left: 700px;
+    margin-top: -270px;
+    
+}
+
+
+#paragrafo1{
+margin-left: 30px;
+color: rgb(128, 128, 228);
+
+}
+
+#paragrafo2{
+    margin-left: 40px;
+    color: rgb(228, 72, 194);
+    
+}
+
+#paragrafo3{
+    margin-left: 40px;
+    color: rgb(196, 132, 177);
+    
+}
+
+.rodape-geral{
+background-color: black;
+height: 500px;
+}
+
+#formulario {
+margin-left: 720px;
+margin-top: -25px;
+}
+
+#formulario input{
+ border: solid 2px rgb(241, 86, 216);   
+}
+
+
+#botao{
+margin-left: 450px;    
+margin-top: 100px;
+background-color: purple;
+border-radius: 2px;
+border: rgb(255, 0, 170);
+}
+
+#botao a {
+text-decoration: none;
+color: rgb(240, 236, 239);
+font-weight: bold;
+}
+
+#botao :hover {
+color: rgb(255, 0, 255);
+
+}
+
+.rodape-ultimo {
+background-color: rgba(187, 74, 252, 0.623);
+margin-top: -20px;
+height: 200px;
+}
+
+h2 {
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+color: rgb(240, 232, 239);
+font-weight: bold;
+margin-top: -30px;
+}
+
+.form-avaliacao {
+text-align: center;
+
+}
+
+.form-avaliacao input{
+border: solid 2px pink;
+
+}
+
+footer{
+
+    background-color: black;
+    margin-top: -15px;
+    height: 25px;
+}
+
+#developer{
+color: white;    
+text-align: center;
+}
+
+
+.enviar-informacao {
+margin-left: 500px;
+margin-top: 5px;
+border: solid 2px purple;
+font-family: Arial, Helvetica, sans-serif;
+background-color: rgba(0, 0, 0, 0.61);
+color: blanchedalmond;
+}
+
+
+
